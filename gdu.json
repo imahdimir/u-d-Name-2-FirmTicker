@@ -1,0 +1,9 @@
+{
+  "slf": "https://github.com/imahdimir/u-d-Name-2-FirmTicker",
+  "src_uf": "https://github.com/imahdimir/d-Unique-FirmTickers",
+  "src_m2f": "https://github.com/imahdimir/d-multi-BaseTickers-2-same-FirmTicker",
+  "src_t2f": "https://github.com/imahdimir/d-Ticker-2-FirmTicker",
+  "src_ct2f": "https://github.com/imahdimir/d-CodalTicker-2-FirmTicker",
+  "src_cn2f": "https://github.com/imahdimir/d-CompanyName-2-FirmTicker",
+  "trg": "https://github.com/imahdimir/d-Name-2-FirmTicker"
+}
